@@ -3,4 +3,6 @@
 03-sem-NN/test/*
 03-sem-NN/template_x.ipynb
 04-sem-CNN/dataset
+04-sem-CNN/lightning*
+*.pt
 _venv
